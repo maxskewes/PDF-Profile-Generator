@@ -15,7 +15,7 @@ Next the user will see a prompt with four color options; the user should choose 
 The program should then generate a file named index.html.
 The program should then convert that HTML file into a .pdf.
 Navigate back to the folder containing the original index.js file to open the .pdf or the newly created index.html should the user desire.
-Click [here] to see a sample of a generated profile.
+Click [here](https://maxskewes.github.io/PDF-Profile-Generator/) to see a sample of a generated profile.
 
 ### Built with
 * Javascript
