@@ -18,13 +18,10 @@ Navigate back to the folder containing the original index.js file to open the .p
 Click [here](https://maxskewes.github.io/PDF-Profile-Generator/) to see a sample of a generated profile.
 
 ### Built with
-* Javascript
-* JSON
-* Node
-* Axios
-* Electron
-* Electron-htmo-to
-* Inquirer
+* [Javascript](https://www.javascript.com)
+* [JSON](https://www.json.org)
+* [Node](https://nodejs.org)
+* [Axios](https://www.axios.com)
 
 ### Authors
 Maxwell Countryman Skewes
