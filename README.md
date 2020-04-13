@@ -1,11 +1,11 @@
 # PDF Generator
-2020
+©2020
 
 ### Install needs
-Axios ^0.19.0
-electron ^7.1.7
-electron-html-to ^2.6.0
-inquirer ^7.0.1
+* Axios ^0.19.0
+* electron ^7.1.7
+* electron-html-to ^2.6.0
+* inquirer ^7.0.1
 
 ### Instructions for use
 Type in rpm install into the command line.
@@ -17,13 +17,13 @@ The program should then convert that HTML file into a .pdf.
 Navigate back to the folder containing the original index.js file to open the .pdf or the newly created index.html should the user desire.
 
 ### Built with
-Javascript
-JSON
-Node
-Axios
-Electron
-Electron-htmo-to
-Inquirer
+* Javascript
+* JSON
+* Node
+* Axios
+* Electron
+* Electron-htmo-to
+* Inquirer
 
 ### Authors
 Maxwell Countryman Skewes
