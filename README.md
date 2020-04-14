@@ -16,6 +16,7 @@ Next the user will see a prompt with four color options; the user should choose 
 The program should then generate a file named index.html.
 The program should then convert that HTML file into a .pdf.
 Navigate back to the folder containing the original index.js file to open the .pdf or the newly created index.html should the user desire.
+![](nameofgif.gif)
 Click [here](https://maxskewes.github.io/PDF-Profile-Generator/) to see a sample of a generated profile.
 
 ### Built with
@@ -28,5 +29,5 @@ Click [here](https://maxskewes.github.io/PDF-Profile-Generator/) to see a sample
 Maxwell Countryman Skewes
 
 ### Acknowledgments
-Thanks to James Nelson for helping me get through this.
+Hat tip to University of Oregon's Codin Bootcamp and my classmate James Nelson for his help with this project.
 
