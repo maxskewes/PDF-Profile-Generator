@@ -2,7 +2,7 @@
 ©2020
 A Node app that generates a team roster with information on the manager, engineers and inters. The app then dynamically generates a PDF profile from a GitHub username.
 
-![Alt text](./Profile.pdf?raw=true "AppImage")
+![Alt text](./readmePDFprofile.png?raw=true "AppImage")
 ![Alt text](./profileGeneratorDemo.gif?raw=true "AppImage")
 
 ### Install needs
