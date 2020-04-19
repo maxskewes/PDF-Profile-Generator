@@ -2,6 +2,8 @@
 ©2020
 A Node app that generates a team roster with information on the manager, engineers and inters. The app then dynamically generates a PDF profile from a GitHub username.
 
+![Alt text](./Profile.pdf?raw=true "AppImage")
+
 ### Install needs
 * Axios ^0.19.0
 * electron ^7.1.7
